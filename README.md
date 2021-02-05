@@ -22,14 +22,14 @@ If the player click the hold button, he keeps his current accumulated score into
 Have fun :smile:
 
 
-## Utilisation / Usage :computer:
+## Usage :computer:
 1. Simply download the entire repository as a zip folder and extract to a location of your liking.
 2. Open the html file, voilà !
 
 To consult the code you can simply click on the files in question.
 
 
-## Contribution / Contributing :hammer_and_wrench:
+## Contributing :hammer_and_wrench:
 
 Do a pull request on the directory where I will review the changes before merge.
     
